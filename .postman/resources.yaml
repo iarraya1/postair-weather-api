@@ -1,0 +1,8 @@
+# Use this workspace to collaborate
+workspace:
+  id: 3c75f8ef-e4bb-44bf-8795-991d71786d6c
+
+localResources:
+  specs:
+    - ..\api-docs\postair-openapi-3_1.json
+    - ..\api-docs\postair-openapi-3_1.yaml
