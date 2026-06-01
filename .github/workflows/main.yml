@@ -2,10 +2,10 @@ name: PostAir API Tests
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      _ main
+      - master
 jobs:
   run-api-tests:
     runs-on: ubuntu-latest
